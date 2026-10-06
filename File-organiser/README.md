@@ -10,6 +10,6 @@ A safe desktop-folder organizer that groups files by extension.
 
 ## Run
 ```bash
-python organizer.py /path/to/folder
-python organizer.py /path/to/folder --apply
+python File-organiser.py /path/to/folder
+python Files-organiser.py /path/to/folder --apply
 ```

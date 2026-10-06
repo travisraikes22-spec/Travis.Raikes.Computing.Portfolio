@@ -10,5 +10,5 @@ A small stock-management application built with SQLite.
 
 ## Run
 ```bash
-python app.py
+python Iventory-manager.py
 ```

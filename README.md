@@ -68,4 +68,26 @@ Birmingham, UK
 
 Email: travisraikes22@gmail.com
 
-Telephone: 07873826195
+│
+├── README.md
+│
+├── Habit-Tracker
+│   ├── habit_tracker.py
+│   └── README.md
+│
+├── Expense-Tracker
+│   ├── expense_tracker.py
+│   └── README.md
+│
+├── File-Organizer
+│   ├── organizer.py
+│   └── README.md
+│
+├── Quiz-Master
+│   ├── app.py
+│   ├── questions.json
+│   └── README.md
+│
+└── Inventory-Manager
+    ├── app.py
+    └── README.md

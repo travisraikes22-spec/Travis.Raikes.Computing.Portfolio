@@ -9,5 +9,5 @@ A SQLite-backed habit tracker with streak calculations.
 
 ## Run
 ```bash
-python app.py
+python habit-tracker.py
 ```

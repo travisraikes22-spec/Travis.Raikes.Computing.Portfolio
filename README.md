@@ -41,7 +41,7 @@ A persistent expense-management application using Python and SQLite.
 
 The project demonstrates SQL database operations, aggregation, category and date-based summaries, input validation and CSV export.
 
-File Organizer — Python
+File Organiser — Python
 
 A command-line automation application that organises files according to their extensions.
 

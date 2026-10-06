@@ -1,0 +1,7 @@
+[
+{"category":"Python","question":"Which keyword defines a function?","options":["func","def","function","lambda"],"answer":2},
+{"category":"Python","question":"Which type stores key-value pairs?","options":["list","tuple","dict","set"],"answer":3},
+{"category":"Computing","question":"What does CPU stand for?","options":["Central Processing Unit","Computer Personal Unit","Core Program Utility","Central Program User"],"answer":1},
+{"category":"Computing","question":"Which protocol is commonly used for secure web traffic?","options":["HTTP","FTP","HTTPS","SMTP"],"answer":3},
+{"category":"Maths","question":"What is 12 × 8?","options":["86","96","108","112"],"answer":2}
+]

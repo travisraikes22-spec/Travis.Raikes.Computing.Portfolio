@@ -10,5 +10,5 @@ A practical CLI expense tracker using Python + SQLite.
 
 ## Run
 ```bash
-python app.py
+python expense-tracker.py
 ```
